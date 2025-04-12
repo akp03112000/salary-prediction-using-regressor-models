@@ -74,6 +74,6 @@ Random Forest performs better due to ensemble learning, offering more accurate a
 ## Report
 
 The final report is included in the /report directory:
-- salaryAnalysis.pdf
+- Salary Analysis Report by Akhilesh.pdf
 
 ---
