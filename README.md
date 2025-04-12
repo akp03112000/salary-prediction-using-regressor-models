@@ -10,8 +10,8 @@ This project uses supervised machine learning techniques to predict salary based
 - Features:
   - YearsExperience
   - Salary
-- Target: Salary (continuous value)
-- Source: Self-generated / Kaggle
+- Target: Salary
+- Source: Kaggle
 - Format: CSV file
 
 ---
