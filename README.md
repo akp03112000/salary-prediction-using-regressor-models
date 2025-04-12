@@ -35,12 +35,12 @@ This project uses supervised machine learning techniques to predict salary based
 
 ## Evaluation Metrics
 
-| Model                | MAE   | MSE   | RMSE  | R² Score |
-|---------------------|-------|-------|-------|----------|
-| Decision Tree        | 0.90  | 1.70  | 1.30  | 0.96     |
-| Random Forest        | 0.70  | 1.00  | 1.00  | 0.98     |
+| Model              | MAE   | MSE   | RMSE  | R² Score |
+|-------------------|-------|-------|-------|----------|
+| Decision Tree      | 0.22  | 0.12  | 0.35  | 0.88     |
+| Random Forest      | 0.11  | 0.05  | 0.23  | 0.95     |
 
-Random Forest performs better due to ensemble learning.
+Random Forest performs better due to ensemble learning, offering more accurate and stable predictions compared to a single Decision Tree.
 
 ---
 
