@@ -74,6 +74,5 @@ Random Forest performs better due to ensemble learning, offering more accurate a
 ## Report
 
 The final report is included in the /report directory:
-- Salary Analysis Report by Akhilesh.pdf
-
+- [Salary Analysis Report by Akhilesh](https://github.com/iamvikramkumar/salary-prediction-using-regressor-models/blob/main/Salary%20Analysis%20Report%20by%20Akhilesh.pdf)
 ---
